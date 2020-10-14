@@ -18,10 +18,10 @@ What you need to do :
 - You can add value manually from VendorID in IONameMatch (atheros40) if your ID not present.
 - Refer to MaLd0n guide in olarila for working Wifi Atheros AR9565, AR9462, AR9463, AR9485 here is the modification (no need injector) :
 
-[AR9565 AirPortAtheros40-9565.kext.zip]()
-[AR9462 AirPortAtheros40-9462.kext.zip]()
-[AR9463 AirPortAtheros40-9463.kext.zip]()
-[AR9485 AirPortAtheros40-9485.kext.zip]()
+- [AR9565 AirPortAtheros40-9565.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9565.kext.zip)
+- [AR9462 AirPortAtheros40-9462.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9462.kext.zip)
+- [AR9463 AirPortAtheros40-9463.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9463.kext.zip)
+- [AR9485 AirPortAtheros40-9485.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9485.kext.zip)
 
 Feel free to reach us on :
 - https://www.firstplato.com
