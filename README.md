@@ -24,6 +24,10 @@ Cekidot :
 - [AR9463 AirPortAtheros40-9463.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9463.kext.zip)
 - [AR9485 AirPortAtheros40-9485.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9485.kext.zip)
 
+Resource :
+- https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/?_fromLogin=1 
+- Credit to [Pico Joe](https://www.insanelymac.com/forum/profile/1113740-pico-joe/)
+
 Feel free to reach us on :
 - https://www.firstplato.com
 - https://www.facebook.com
