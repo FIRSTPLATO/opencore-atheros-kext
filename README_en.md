@@ -27,4 +27,4 @@ Feel free to reach us on :
 - https://www.firstplato.com
 - https://www.facebook.com
 - admin@firstplato.com
-- WhatsApp : +62-8999-302-702
+- WhatsApp : [+62-8999-302-702](https://wa.me/628999302702)
