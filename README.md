@@ -18,6 +18,7 @@ Apa yang perlu dilakukan :
 - Kamu dapat menambahkan sendiri dari VendorID di IONameMatch (atheros40) jika ID kamu belum ada.
 - Berdasarkan tutorial dari om Maldon di Olarila untuk Wifi Atheros AR9565, AR9462, AR9463, AR9485 yang sudah dites dan lancar, berikut ini adalah file modifikasinya (tidak memerlukan injector) :
 
+Cekidot :
 - [AR9565 AirPortAtheros40-9565.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9565.kext.zip)
 - [AR9462 AirPortAtheros40-9462.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9462.kext.zip)
 - [AR9463 AirPortAtheros40-9463.kext.zip](https://github.com/ipang-dwi/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9463.kext.zip)
