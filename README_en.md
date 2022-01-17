@@ -23,7 +23,7 @@ Check this out :
 - [AR9462 AirPortAtheros40-9462.kext.zip](https://github.com/FIRSTPLATO/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9462.kext.zip)
 - [AR9463 AirPortAtheros40-9463.kext.zip](https://github.com/FIRSTPLATO/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9463.kext.zip)
 - [AR9485 AirPortAtheros40-9485.kext.zip](https://github.com/FIRSTPLATO/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-9485.kext.zip)
-- [AR9485 AirPortAtheros40-update.kext.zip](https://github.com/FIRSTPLATO/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-update.kext.zip) by [dwizuna](https://github.com/dwizuna) for AR5418/5133, AR8297, AR9280, AR9281, AR9283, AR9285, AR9287, AR9380.
+- [AirPortAtheros40-update.kext.zip](https://github.com/FIRSTPLATO/opencore-atheros-kext/raw/main/kext/AirPortAtheros40-update.kext.zip) by [dwizuna](https://github.com/dwizuna) for AR5418/5133, AR8297, AR9280, AR9281, AR9283, AR9285, AR9287, AR9380.
 
 Resource :
 - https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/?_fromLogin=1 
